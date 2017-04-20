@@ -1,6 +1,6 @@
 # Android-Code-Style
 
-## 1. 约定
+## 1. 约定a
 
 * **Activity.onCreate()，Fragment.onActivityCreated()，紧跟成员变量后，方法内部保持简单，尽量只调用initXXX()方法，如：initData()，initView()。**
 * 调用方法保持**“临近原则”**，被调用的方法，放在调用方法下方
