@@ -99,7 +99,7 @@ initXX()	| 初始化相关方法，使用init为前缀标识，如初始化布�
 httpXX()	| http业务请求方法，以http为前缀标识
 getXX()		| 返回某个值的方法，使用get为前缀标识
 saveXX()	| 与保存数据相关的，使用save为前缀标识
-deleteXX()	| 删除操作
+deleteXX()	| 删除操作 删除
 resetXX()	| 对数据重组的，使用reset前缀标识
 clearXX()	| 清除数据相关的
 isXX()		| 方法返回值为boolean型的请使用is或check为前缀标识
