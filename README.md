@@ -26,7 +26,7 @@ WebView 	| webView
 CheckBox 	| checkBox
 ProgressBar	| progressBar
 seekBar 	| seekBar
-其他控件 	| 控件名首字母缩写作为前缀
+其他控件 	| 控件名首字母缩写作为
 
 * 如：TextView @+id/textTitle
 * 如：EditView @+id/textName
