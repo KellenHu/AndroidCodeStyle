@@ -24,8 +24,8 @@ RelativeLayout/LinearLayout/FrameLayout | layout
 ListView	| listView
 WebView 	| webView
 CheckBox 	| checkBox
-ProgressBar	| progressBar
-seekBar 	| seekBar
+ProgressBar	| progressBar2
+seekBar 	| seekBar1
 其他控件 	| 控件名首字母缩写作为
 
 * 如：TextView @+id/textTitle
